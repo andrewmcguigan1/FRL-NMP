@@ -6,7 +6,7 @@ Rocket design and analysis project for Florida Rocket Lab at the University of F
 
 ## Preliminary Design Review (Group 2)
 
-- [PDR presentation](Group2_PDR/GROUP_2_PDR.pdf): 107-slide deck covering the thrust structure, recovery, airbrakes, and aerodynamics, with an appendix holding the bill of materials and all hand calculations.
+- [PDR presentation](Group2_PDR/GROUP%202%20PDR.pdf): 107-slide deck covering the thrust structure, recovery, airbrakes, and aerodynamics, with an appendix holding the bill of materials and all hand calculations.
 
 Group 2 is a 4-person team: Andrew McGuigan, David Chertok, Cooper Boris, and Helen Garcia. I designed the thrust structure, recovery, and airbrakes subsystems.
 
