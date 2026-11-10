@@ -8,7 +8,7 @@ Rocket design and analysis project for Florida Rocket Lab at the University of F
 
 - [PDR presentation](Group2_PDR/GROUP_2_PDR.pdf): 107-slide deck covering the thrust structure, recovery, airbrakes, and aerodynamics, with an appendix holding the bill of materials and all hand calculations.
 
-Group 2 is a 4-person team: Andrew McGuigan, David Chertok, Cooper Boris, and Helen Garcia. I presented the thrust structure section and shared the airbrakes section.
+Group 2 is a 4-person team: Andrew McGuigan, David Chertok, Cooper Boris, and Helen Garcia. I designed the thrust structure, recovery, and airbrakes subsystems.
 
 **Vehicle:** CTI K1440 motor (54 mm, 1,828.9 N peak thrust, 2,372 N·s), 76.2 mm fiberglass airframe, 6.98 kg liftoff mass, thrust-to-weight ratio of 21.
 
